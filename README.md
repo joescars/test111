@@ -2,5 +2,4 @@
 test
 
 # hello
-
-![My Image][images/imgimg.jpg]
+![Game Setup](images/imgimg.jpg)
